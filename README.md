@@ -1,7 +1,7 @@
 # Protractor
 
 1. Download latest java adn install it.
-	Open Terminal and type "java -version" to check the version.
+	Open Terminal and type "java --version" to check the version.
 
 2. Download Node.js via following link : https://nodejs.org/en/download/ [select x86 or x64]
 	Open Terminal and type "node --version" to check the version.
